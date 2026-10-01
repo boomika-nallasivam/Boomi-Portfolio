@@ -53,7 +53,7 @@ export function Hero() {
               <br />
               Java Full Stack Developer
               <br />
-              300+ DSA Problems Solved
+              1200+ DSA Problems Solved
               <br />
               Open to Internship & Full-Time Opportunities
             </p>
@@ -110,7 +110,7 @@ export function Hero() {
                   DSA Problems
                 </dt>
                 <dd className="mt-1 font-display text-2xl font-semibold text-gradient">
-                  300+
+                  1200+
                 </dd>
               </div>
 
