@@ -30,7 +30,7 @@ export function About() {
              I have hands-on experience building web applications using Java, Spring Boot, React, MySQL, HTML, CSS, and JavaScript. Through academic projects and continuous learning, I have developed a solid understanding of backend development, REST APIs, database management, and software engineering principles.
             </p>
             <p className="text-muted-foreground">
-             With 300+ DSA problems solved and multiple full-stack projects completed, I am actively seeking internship and entry-level Software Development opportunities where I can contribute, learn from experienced engineers, and grow as a developer.
+             With 1200+ DSA problems solved and multiple full-stack projects completed, I am actively seeking internship and entry-level Software Development opportunities where I can contribute, learn from experienced engineers, and grow as a developer.
             </p>
           </div>
         </Reveal>
