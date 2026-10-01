@@ -7,7 +7,7 @@ const groups = [
   { icon: Database, label: "Database", items: ["Supabase", "PostgreSQL", "SQL"] },
   { icon: Brain, label: "AI / ML", items: ["Groq API", "LLaMA 3.3 70B", "Whisper Large V3", "NLP"] },
   { icon: Wrench, label: "Tools & Platforms", items: ["Git", "GitHub", "Render", "Vercel","IntelliJ IDEA","VS Code" , "Antigravity","Wordpress"] },
-  { icon: Terminal, label: "Languages", items: ["C++", "Python", "Java", "JavaScript"] },
+  { icon: Terminal, label: "Languages", items: ["C","C++", "Python", "Java", "JavaScript"] },
 ];
 
 export function Skills() {
